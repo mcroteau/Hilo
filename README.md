@@ -1,4 +1,4 @@
-![Hilo: Multi currency/multi language Ecommerce](http://goioc.xyz/ioc/static/files/gs7qdhN.png) 
+![Hilo: Multi currency/multi language Ecommerce](http://goioc.xyz/ioc/static/files/vtgXVzF.png) 
 
 # Hilo 
 
