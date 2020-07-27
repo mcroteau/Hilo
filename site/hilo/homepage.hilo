@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Hilo :A Multi-Currency eCommerce Application</title>
+	
+	<meta name="description" content="Hilo :A Multi-Currency eCommerce Application">
+
+	<meta name=”viewport” content=”width=device-width, initial-scale=1″>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	
+	<link href="images/hilo-icon.png" rel="icon" type="image/png" />
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/flags.min.css">
+
+	<style type="text/css">
+		html,body,
+		div, span, p, blockquote,
+		h1, h2, h3, h4{
+			color:#393838;
+			text-align: center;
+		}
+		p{
+			text-align: left;
+		}
+
+		#hilo-logo{
+			width:342px;
+			margin: 112px auto 70px auto;
+		}
+
+		.project{
+			font-size:62px;
+			font-weight:bold;
+			padding:0px;
+			margin:0px 0px 0px 9px;
+			line-height:1.0;
+			color:#393838;
+			float:left;
+			display:inline-block;
+		}
+
+		.logo-icon{
+			width:20%;
+			float:left;
+			margin-top:5px;
+			display:inline-block;
+		}
+
+		.tagline{
+			font-size:13px;
+			text-align: left;
+			display:block;
+		}
+
+		.where{
+			float:left;
+		}
+		.clear{
+			clear:both;
+		}
+	</style>
+</head>
+
+<body>
+
+
+
+	<div id="content" class="container">
+
+		<div class="col-md-4">&nbsp;</div>
+
+		<div class="col-md-4">
+
+			<div id="hilo-logo" class="logo hideable home">
+				<img src="http://www.gohilo.xyz/q/uploads/hiloicon.png" class="logo-icon"/>
+				<span class="project p" >Hilo</span>		
+				<br class="clear"/>
+				<span class="tagline hilo">Open Source eCommerce</span>
+
+				<p>
+					<br/>
+					<strong><a href="http://45.77.6.219:8080/hilo/admin" target="_blank">Demo</a></strong>&nbsp;&nbsp;
+					<span style="font-size:13px;color:#777">
+						Username : admin&nbsp;&nbsp;&nbsp;
+						Password : password
+					</span>
+				</p>
+			</div>
+
+
+			<div class="where-row">
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-us" alt="United States" />
+				</div>
+				
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-gb" alt="United Kingdom" />
+				</div>
+				
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-nz" alt="New Zealand" />
+				</div>
+				
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-ca" alt="Canada" />
+				</div>
+				
+				<!--
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-ie" alt="India" />
+				</div>
+				
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-nl" alt="Netherlands" />
+				</div>
+				
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-de" alt="Germany" />
+				</div>
+				
+				<div class="where">
+					<img src="/q/uploads/blank.gif" class="flag flag-fr" alt="France"/>
+				</div>
+				-->
+				
+				<br class="clear"/>
+			</div>
+
+
+			<br class="clear"/>
+			<p style="margin:30px 0px; clear:both;">
+				Hilo is Open Source, free to download and distribute.<br/><br/>
+				
+				<a href="http://www.gohilo.xyz/q/blog" target="_blank">Tutorials</a>
+				&nbsp;&nbsp;
+				<a href="https://github.com/mcroteau/Hilo" target="_blank">Download</a><br/><br/>
+
+				There are areas that need improvement in addition we currently need translation support for Brazil, India, Germany, France, Netherlands and Hong Kong.<br/><br/>
+
+				Contact us with questions: <a href="mailto:croteau.mike@gmail.com">croteau.mike@gmail.com</a>
+			</p>
+
+
+			<p style="margin:0px 0px 70px 0px">
+				(907) 687-9557<br/>
+				<a href="mailto:croteau.mike@gmail.com">croteau.mike@gmail.com</a>
+			</p>
+
+
+
+
+
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40862316-15"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+
+			  gtag('config', 'UA-40862316-15');
+			</script>
+
+
+
+			<p style="margin-bottom:150px;">&copy; 2019 www.gohilo.xyz</p>
+
+		</div>
+
+		<div class="col-md-4">&nbsp;</div>
+
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

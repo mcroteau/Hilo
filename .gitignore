@@ -1,0 +1,27 @@
+Thumbs.db
+CHANGELOG.md
+.gradle
+.classpath
+.project
+.settings
+.launch
+.tmproj
+.idea
+.gradle
+*.iml
+/build
+Todo.md
+
+# logs
+stacktrace.log
+/test/reports
+
+/target/
+
+# project release file
+*.war
+
+# project settings
+*settings.properties
+
+src/main/webapp/backup/hilo-backup.json
